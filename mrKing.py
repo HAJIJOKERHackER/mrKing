@@ -1,6 +1,6 @@
 """
-//DECOMPILED BY mrKing
-@@FACEBOOK : SHAHI JOKER
+//DECOMPILED BY AHMED XD
+@@FACEBOOK : AHMED.XD.7732
 """
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 
@@ -36,7 +36,7 @@ except ImportError:
     os.system('pip install http')
     os.system('pip install pycurl')
     time.sleep(1)
-#os.system('xdg-open https://www.facebook.com/kanokwan.plengien')
+#os.system('xdg-open https://chat.whatsapp.com/93707266012')
 
 
 
@@ -186,7 +186,7 @@ logo=(f"""\033[1;37m
  \033[1;32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~""")
 def linex():
     print('\033[1;32m ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-os.system('xdg-open https://t.me/muhammadozer')
+os.system('xdg-open https://chat.whatsapp.com/93707266012')
 def clear():
         os.system('clear')
         print(logo)
