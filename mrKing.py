@@ -372,7 +372,7 @@ def pak():
 def BD():
 		user=[]
 		clear()
-		print('\033[1;35m Code example: 017')
+		print('\033[1;35m Code example: 070,078')
 		code = input('\033[1;37m put code: ')
 		try:
 			limit = int(input('\033[1;35m example: 2000, 3000, 5000, 10000\n\033[1;37m put limit: '))
