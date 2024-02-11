@@ -1106,19 +1106,19 @@ def main_apv():
     os.system('clear')
     print(logo)
     try:
-        key1 = open('/sdcard/.𝐒𝐇𝐀𝐇𝐈_𝐉𝐎𝐊𝐄𝐑.key.txt', 'r').read()
+        key1 = open('/sdcard/.JOKER.key.txt', 'r').read()
     except IOError:
         os.system('clear')
         print(logo)
        
         myid = uuid.uuid4().hex[:30]
         
-        kok = open('/sdcard/.𝐒𝐇𝐀𝐇𝐈_𝐉𝐎𝐊𝐄𝐑.key.txt', 'w')
+        kok = open('/sdcard/.JOKER.key.txt', 'w')
         kok.write(myid + imt)
         kok.close()
     
         input(' Exit And Again Run The Command');os.system('python mrKing.py')
-        tks = ('Hello%20𝐒𝐇𝐀𝐇𝐈_𝐉𝐎𝐊𝐄𝐑%20Owner%20Kashif%20!!%20Please%20Approve%20My%20Key%20Key%20:%20'+key1);os.system('am start https://wa.me/+?text='+tks)
+        tks = ('Hello%20JOKER%20Owner%20Kashif%20!!%20Please%20Approve%20My%20Key%20Key%20:%20'+key1);os.system('am start https://wa.me/+?text='+tks)
 
     r1 = requests.get('https://raw.githubusercontent.com/HAJIJOKERHackER/Approve/main/Approve.txt').text
    
@@ -1133,6 +1133,6 @@ def main_apv():
        
         print(' Payment Number Details\n +93707266012 \n Easypaisa or Jazzcash');linex()
         input(' \033[1;37mPress Enter To send key Admin')
-        tks = ('Hello%20DOD%20Owner%20𝐒𝐇𝐀𝐇𝐈_𝐉𝐎𝐊𝐄𝐑-XD%20!!%20Please%20Approve%20My%20Key%20Key%20:%20'+key1);os.system('am start https://wa.me/+93707266012?text='+tks)
+        tks = ('Hello%20DOD%20Owner%20JOKER-XD%20!!%20Please%20Approve%20My%20Key%20Key%20:%20'+key1);os.system('am start https://wa.me/+93707266012?text='+tks)
         main_apv()
 main_apv()
